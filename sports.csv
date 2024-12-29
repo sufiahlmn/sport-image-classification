@@ -1,0 +1,780 @@
+class id,filepaths,labels,data set
+8,train/basketball/001.jpg,basketball,train
+8,train/basketball/002.jpg,basketball,train
+8,train/basketball/003.jpg,basketball,train
+8,train/basketball/004.jpg,basketball,train
+8,train/basketball/005.jpg,basketball,train
+8,train/basketball/006.jpg,basketball,train
+8,train/basketball/007.jpg,basketball,train
+8,train/basketball/008.jpg,basketball,train
+8,train/basketball/009.jpg,basketball,train
+8,train/basketball/010.jpg,basketball,train
+8,train/basketball/011.jpg,basketball,train
+8,train/basketball/012.jpg,basketball,train
+8,train/basketball/013.jpg,basketball,train
+8,train/basketball/014.jpg,basketball,train
+8,train/basketball/015.jpg,basketball,train
+8,train/basketball/016.jpg,basketball,train
+8,train/basketball/017.jpg,basketball,train
+8,train/basketball/018.jpg,basketball,train
+8,train/basketball/019.jpg,basketball,train
+8,train/basketball/020.jpg,basketball,train
+8,train/basketball/021.jpg,basketball,train
+8,train/basketball/022.jpg,basketball,train
+8,train/basketball/023.jpg,basketball,train
+8,train/basketball/024.jpg,basketball,train
+8,train/basketball/025.jpg,basketball,train
+8,train/basketball/026.jpg,basketball,train
+8,train/basketball/027.jpg,basketball,train
+8,train/basketball/028.jpg,basketball,train
+8,train/basketball/029.jpg,basketball,train
+8,train/basketball/030.jpg,basketball,train
+8,train/basketball/031.jpg,basketball,train
+8,train/basketball/032.jpg,basketball,train
+8,train/basketball/033.jpg,basketball,train
+8,train/basketball/034.jpg,basketball,train
+8,train/basketball/035.jpg,basketball,train
+8,train/basketball/036.jpg,basketball,train
+8,train/basketball/037.jpg,basketball,train
+8,train/basketball/038.jpg,basketball,train
+8,train/basketball/039.jpg,basketball,train
+8,train/basketball/040.jpg,basketball,train
+8,train/basketball/041.jpg,basketball,train
+8,train/basketball/042.jpg,basketball,train
+8,train/basketball/043.jpg,basketball,train
+8,train/basketball/044.jpg,basketball,train
+8,train/basketball/045.jpg,basketball,train
+8,train/basketball/046.jpg,basketball,train
+8,train/basketball/047.jpg,basketball,train
+8,train/basketball/048.jpg,basketball,train
+8,train/basketball/049.jpg,basketball,train
+8,train/basketball/050.jpg,basketball,train
+8,train/basketball/051.jpg,basketball,train
+8,train/basketball/052.jpg,basketball,train
+8,train/basketball/053.jpg,basketball,train
+8,train/basketball/054.jpg,basketball,train
+8,train/basketball/055.jpg,basketball,train
+8,train/basketball/056.jpg,basketball,train
+8,train/basketball/057.jpg,basketball,train
+8,train/basketball/058.jpg,basketball,train
+8,train/basketball/059.jpg,basketball,train
+8,train/basketball/060.jpg,basketball,train
+8,train/basketball/061.jpg,basketball,train
+8,train/basketball/062.jpg,basketball,train
+8,train/basketball/063.jpg,basketball,train
+8,train/basketball/064.jpg,basketball,train
+8,train/basketball/065.jpg,basketball,train
+8,train/basketball/066.jpg,basketball,train
+8,train/basketball/067.jpg,basketball,train
+8,train/basketball/068.jpg,basketball,train
+8,train/basketball/069.jpg,basketball,train
+8,train/basketball/070.jpg,basketball,train
+8,train/basketball/071.jpg,basketball,train
+8,train/basketball/072.jpg,basketball,train
+8,train/basketball/073.jpg,basketball,train
+8,train/basketball/074.jpg,basketball,train
+8,train/basketball/075.jpg,basketball,train
+8,train/basketball/076.jpg,basketball,train
+8,train/basketball/077.jpg,basketball,train
+8,train/basketball/078.jpg,basketball,train
+8,train/basketball/079.jpg,basketball,train
+8,train/basketball/080.jpg,basketball,train
+8,train/basketball/081.jpg,basketball,train
+8,train/basketball/082.jpg,basketball,train
+8,train/basketball/083.jpg,basketball,train
+8,train/basketball/084.jpg,basketball,train
+8,train/basketball/085.jpg,basketball,train
+8,train/basketball/086.jpg,basketball,train
+8,train/basketball/087.jpg,basketball,train
+8,train/basketball/088.jpg,basketball,train
+8,train/basketball/089.jpg,basketball,train
+8,train/basketball/090.jpg,basketball,train
+8,train/basketball/091.jpg,basketball,train
+8,train/basketball/092.jpg,basketball,train
+8,train/basketball/093.jpg,basketball,train
+8,train/basketball/094.jpg,basketball,train
+8,train/basketball/095.jpg,basketball,train
+8,train/basketball/096.jpg,basketball,train
+8,train/basketball/097.jpg,basketball,train
+8,train/basketball/098.jpg,basketball,train
+8,train/basketball/099.jpg,basketball,train
+8,train/basketball/100.jpg,basketball,train
+8,train/basketball/101.jpg,basketball,train
+8,train/basketball/102.jpg,basketball,train
+8,train/basketball/103.jpg,basketball,train
+8,train/basketball/104.jpg,basketball,train
+8,train/basketball/105.jpg,basketball,train
+8,train/basketball/106.jpg,basketball,train
+8,train/basketball/107.jpg,basketball,train
+8,train/basketball/108.jpg,basketball,train
+8,train/basketball/109.jpg,basketball,train
+8,train/basketball/110.jpg,basketball,train
+8,train/basketball/111.jpg,basketball,train
+8,train/basketball/112.jpg,basketball,train
+8,train/basketball/113.jpg,basketball,train
+8,train/basketball/114.jpg,basketball,train
+8,train/basketball/115.jpg,basketball,train
+8,train/basketball/116.jpg,basketball,train
+8,train/basketball/117.jpg,basketball,train
+8,train/basketball/118.jpg,basketball,train
+8,train/basketball/119.jpg,basketball,train
+8,train/basketball/120.jpg,basketball,train
+8,train/basketball/121.jpg,basketball,train
+8,train/basketball/122.jpg,basketball,train
+8,train/basketball/123.jpg,basketball,train
+8,train/basketball/124.jpg,basketball,train
+8,train/basketball/125.jpg,basketball,train
+8,train/basketball/126.jpg,basketball,train
+8,train/basketball/127.jpg,basketball,train
+8,train/basketball/128.jpg,basketball,train
+8,train/basketball/129.jpg,basketball,train
+8,train/basketball/130.jpg,basketball,train
+8,train/basketball/131.jpg,basketball,train
+8,train/basketball/132.jpg,basketball,train
+8,train/basketball/133.jpg,basketball,train
+8,train/basketball/134.jpg,basketball,train
+8,train/basketball/135.jpg,basketball,train
+8,train/basketball/136.jpg,basketball,train
+8,train/basketball/137.jpg,basketball,train
+8,train/basketball/138.jpg,basketball,train
+8,train/basketball/139.jpg,basketball,train
+8,train/basketball/140.jpg,basketball,train
+8,train/basketball/141.jpg,basketball,train
+8,train/basketball/142.jpg,basketball,train
+8,train/basketball/143.jpg,basketball,train
+8,train/basketball/144.jpg,basketball,train
+8,train/basketball/145.jpg,basketball,train
+8,train/basketball/146.jpg,basketball,train
+8,train/basketball/147.jpg,basketball,train
+8,train/basketball/148.jpg,basketball,train
+8,train/basketball/149.jpg,basketball,train
+8,train/basketball/150.jpg,basketball,train
+8,train/basketball/151.jpg,basketball,train
+8,train/basketball/152.jpg,basketball,train
+8,train/basketball/153.jpg,basketball,train
+8,train/basketball/154.jpg,basketball,train
+8,train/basketball/155.jpg,basketball,train
+8,train/basketball/156.jpg,basketball,train
+8,train/basketball/157.jpg,basketball,train
+8,train/basketball/158.jpg,basketball,train
+8,train/basketball/159.jpg,basketball,train
+8,train/basketball/160.jpg,basketball,train
+8,train/basketball/161.jpg,basketball,train
+8,train/basketball/162.jpg,basketball,train
+8,train/basketball/163.jpg,basketball,train
+8,train/basketball/164.jpg,basketball,train
+8,train/basketball/165.jpg,basketball,train
+8,train/basketball/166.jpg,basketball,train
+8,train/basketball/167.jpg,basketball,train
+8,train/basketball/168.jpg,basketball,train
+8,train/basketball/169.jpg,basketball,train
+8,test/basketball/1.jpg,basketball,test
+8,test/basketball/2.jpg,basketball,test
+8,test/basketball/3.jpg,basketball,test
+8,test/basketball/4.jpg,basketball,test
+8,test/basketball/5.jpg,basketball,test
+8,valid/basketball/1.jpg,basketball,valid
+8,valid/basketball/2.jpg,basketball,valid
+8,valid/basketball/3.jpg,basketball,valid
+8,valid/basketball/4.jpg,basketball,valid
+8,valid/basketball/5.jpg,basketball,valid
+43,train/horse racing/001.jpg,horse racing,train
+43,train/horse racing/002.jpg,horse racing,train
+43,train/horse racing/003.jpg,horse racing,train
+43,train/horse racing/004.jpg,horse racing,train
+43,train/horse racing/005.jpg,horse racing,train
+43,train/horse racing/006.jpg,horse racing,train
+43,train/horse racing/007.jpg,horse racing,train
+43,train/horse racing/008.jpg,horse racing,train
+43,train/horse racing/009.jpg,horse racing,train
+43,train/horse racing/010.jpg,horse racing,train
+43,train/horse racing/011.jpg,horse racing,train
+43,train/horse racing/012.jpg,horse racing,train
+43,train/horse racing/013.jpg,horse racing,train
+43,train/horse racing/014.jpg,horse racing,train
+43,train/horse racing/015.jpg,horse racing,train
+43,train/horse racing/016.jpg,horse racing,train
+43,train/horse racing/017.jpg,horse racing,train
+43,train/horse racing/018.jpg,horse racing,train
+43,train/horse racing/019.jpg,horse racing,train
+43,train/horse racing/020.jpg,horse racing,train
+43,train/horse racing/021.jpg,horse racing,train
+43,train/horse racing/022.jpg,horse racing,train
+43,train/horse racing/023.jpg,horse racing,train
+43,train/horse racing/024.jpg,horse racing,train
+43,train/horse racing/025.jpg,horse racing,train
+43,train/horse racing/026.jpg,horse racing,train
+43,train/horse racing/027.jpg,horse racing,train
+43,train/horse racing/028.jpg,horse racing,train
+43,train/horse racing/029.jpg,horse racing,train
+43,train/horse racing/030.jpg,horse racing,train
+43,train/horse racing/031.jpg,horse racing,train
+43,train/horse racing/032.jpg,horse racing,train
+43,train/horse racing/033.jpg,horse racing,train
+43,train/horse racing/034.jpg,horse racing,train
+43,train/horse racing/035.jpg,horse racing,train
+43,train/horse racing/036.jpg,horse racing,train
+43,train/horse racing/037.jpg,horse racing,train
+43,train/horse racing/038.jpg,horse racing,train
+43,train/horse racing/039.jpg,horse racing,train
+43,train/horse racing/040.jpg,horse racing,train
+43,train/horse racing/041.jpg,horse racing,train
+43,train/horse racing/042.jpg,horse racing,train
+43,train/horse racing/043.jpg,horse racing,train
+43,train/horse racing/044.jpg,horse racing,train
+43,train/horse racing/045.jpg,horse racing,train
+43,train/horse racing/046.jpg,horse racing,train
+43,train/horse racing/047.jpg,horse racing,train
+43,train/horse racing/048.jpg,horse racing,train
+43,train/horse racing/049.jpg,horse racing,train
+43,train/horse racing/050.jpg,horse racing,train
+43,train/horse racing/051.jpg,horse racing,train
+43,train/horse racing/052.jpg,horse racing,train
+43,train/horse racing/053.jpg,horse racing,train
+43,train/horse racing/054.jpg,horse racing,train
+43,train/horse racing/055.jpg,horse racing,train
+43,train/horse racing/056.jpg,horse racing,train
+43,train/horse racing/057.jpg,horse racing,train
+43,train/horse racing/058.jpg,horse racing,train
+43,train/horse racing/059.jpg,horse racing,train
+43,train/horse racing/060.jpg,horse racing,train
+43,train/horse racing/061.jpg,horse racing,train
+43,train/horse racing/062.jpg,horse racing,train
+43,train/horse racing/063.jpg,horse racing,train
+43,train/horse racing/064.jpg,horse racing,train
+43,train/horse racing/065.jpg,horse racing,train
+43,train/horse racing/066.jpg,horse racing,train
+43,train/horse racing/067.jpg,horse racing,train
+43,train/horse racing/068.jpg,horse racing,train
+43,train/horse racing/069.jpg,horse racing,train
+43,train/horse racing/070.jpg,horse racing,train
+43,train/horse racing/071.jpg,horse racing,train
+43,train/horse racing/072.jpg,horse racing,train
+43,train/horse racing/073.jpg,horse racing,train
+43,train/horse racing/074.jpg,horse racing,train
+43,train/horse racing/075.jpg,horse racing,train
+43,train/horse racing/076.jpg,horse racing,train
+43,train/horse racing/077.jpg,horse racing,train
+43,train/horse racing/078.jpg,horse racing,train
+43,train/horse racing/079.jpg,horse racing,train
+43,train/horse racing/080.jpg,horse racing,train
+43,train/horse racing/081.jpg,horse racing,train
+43,train/horse racing/082.jpg,horse racing,train
+43,train/horse racing/083.jpg,horse racing,train
+43,train/horse racing/084.jpg,horse racing,train
+43,train/horse racing/085.jpg,horse racing,train
+43,train/horse racing/086.jpg,horse racing,train
+43,train/horse racing/087.jpg,horse racing,train
+43,train/horse racing/088.jpg,horse racing,train
+43,train/horse racing/089.jpg,horse racing,train
+43,train/horse racing/090.jpg,horse racing,train
+43,train/horse racing/091.jpg,horse racing,train
+43,train/horse racing/092.jpg,horse racing,train
+43,train/horse racing/093.jpg,horse racing,train
+43,train/horse racing/094.jpg,horse racing,train
+43,train/horse racing/095.jpg,horse racing,train
+43,train/horse racing/096.jpg,horse racing,train
+43,train/horse racing/097.jpg,horse racing,train
+43,train/horse racing/098.jpg,horse racing,train
+43,train/horse racing/099.jpg,horse racing,train
+43,train/horse racing/100.jpg,horse racing,train
+43,train/horse racing/101.jpg,horse racing,train
+43,train/horse racing/102.jpg,horse racing,train
+43,train/horse racing/103.jpg,horse racing,train
+43,train/horse racing/104.jpg,horse racing,train
+43,train/horse racing/105.jpg,horse racing,train
+43,train/horse racing/106.jpg,horse racing,train
+43,train/horse racing/107.jpg,horse racing,train
+43,train/horse racing/108.jpg,horse racing,train
+43,train/horse racing/109.jpg,horse racing,train
+43,train/horse racing/110.jpg,horse racing,train
+43,train/horse racing/111.jpg,horse racing,train
+43,train/horse racing/112.jpg,horse racing,train
+43,train/horse racing/113.jpg,horse racing,train
+43,train/horse racing/114.jpg,horse racing,train
+43,train/horse racing/115.jpg,horse racing,train
+43,train/horse racing/116.jpg,horse racing,train
+43,train/horse racing/117.jpg,horse racing,train
+43,train/horse racing/118.jpg,horse racing,train
+43,train/horse racing/119.jpg,horse racing,train
+43,train/horse racing/120.jpg,horse racing,train
+43,train/horse racing/121.jpg,horse racing,train
+43,train/horse racing/122.jpg,horse racing,train
+43,train/horse racing/123.jpg,horse racing,train
+43,train/horse racing/124.jpg,horse racing,train
+43,train/horse racing/125.jpg,horse racing,train
+43,train/horse racing/126.jpg,horse racing,train
+43,train/horse racing/127.jpg,horse racing,train
+43,train/horse racing/128.jpg,horse racing,train
+43,train/horse racing/129.jpg,horse racing,train
+43,train/horse racing/130.jpg,horse racing,train
+43,train/horse racing/131.jpg,horse racing,train
+43,train/horse racing/132.jpg,horse racing,train
+43,train/horse racing/133.jpg,horse racing,train
+43,train/horse racing/134.jpg,horse racing,train
+43,train/horse racing/135.jpg,horse racing,train
+43,train/horse racing/136.jpg,horse racing,train
+43,train/horse racing/137.jpg,horse racing,train
+43,train/horse racing/138.jpg,horse racing,train
+43,train/horse racing/139.jpg,horse racing,train
+43,test/horse racing/1.jpg,horse racing,test
+43,test/horse racing/2.jpg,horse racing,test
+43,test/horse racing/3.jpg,horse racing,test
+43,test/horse racing/4.jpg,horse racing,test
+43,test/horse racing/5.jpg,horse racing,test
+43,valid/horse racing/1.jpg,horse racing,valid
+43,valid/horse racing/2.jpg,horse racing,valid
+43,valid/horse racing/3.jpg,horse racing,valid
+43,valid/horse racing/4.jpg,horse racing,valid
+43,valid/horse racing/5.jpg,horse racing,valid
+83,train/sumo wrestling/001.jpg,sumo wrestling,train
+83,train/sumo wrestling/002.jpg,sumo wrestling,train
+83,train/sumo wrestling/003.jpg,sumo wrestling,train
+83,train/sumo wrestling/004.jpg,sumo wrestling,train
+83,train/sumo wrestling/005.jpg,sumo wrestling,train
+83,train/sumo wrestling/006.jpg,sumo wrestling,train
+83,train/sumo wrestling/007.jpg,sumo wrestling,train
+83,train/sumo wrestling/008.jpg,sumo wrestling,train
+83,train/sumo wrestling/009.jpg,sumo wrestling,train
+83,train/sumo wrestling/010.jpg,sumo wrestling,train
+83,train/sumo wrestling/011.jpg,sumo wrestling,train
+83,train/sumo wrestling/012.jpg,sumo wrestling,train
+83,train/sumo wrestling/013.jpg,sumo wrestling,train
+83,train/sumo wrestling/014.jpg,sumo wrestling,train
+83,train/sumo wrestling/015.jpg,sumo wrestling,train
+83,train/sumo wrestling/016.jpg,sumo wrestling,train
+83,train/sumo wrestling/017.jpg,sumo wrestling,train
+83,train/sumo wrestling/018.jpg,sumo wrestling,train
+83,train/sumo wrestling/019.jpg,sumo wrestling,train
+83,train/sumo wrestling/020.jpg,sumo wrestling,train
+83,train/sumo wrestling/021.jpg,sumo wrestling,train
+83,train/sumo wrestling/022.jpg,sumo wrestling,train
+83,train/sumo wrestling/023.jpg,sumo wrestling,train
+83,train/sumo wrestling/024.jpg,sumo wrestling,train
+83,train/sumo wrestling/025.jpg,sumo wrestling,train
+83,train/sumo wrestling/026.jpg,sumo wrestling,train
+83,train/sumo wrestling/027.jpg,sumo wrestling,train
+83,train/sumo wrestling/028.jpg,sumo wrestling,train
+83,train/sumo wrestling/029.jpg,sumo wrestling,train
+83,train/sumo wrestling/030.jpg,sumo wrestling,train
+83,train/sumo wrestling/031.jpg,sumo wrestling,train
+83,train/sumo wrestling/032.jpg,sumo wrestling,train
+83,train/sumo wrestling/033.jpg,sumo wrestling,train
+83,train/sumo wrestling/034.jpg,sumo wrestling,train
+83,train/sumo wrestling/035.jpg,sumo wrestling,train
+83,train/sumo wrestling/036.jpg,sumo wrestling,train
+83,train/sumo wrestling/037.jpg,sumo wrestling,train
+83,train/sumo wrestling/038.jpg,sumo wrestling,train
+83,train/sumo wrestling/039.jpg,sumo wrestling,train
+83,train/sumo wrestling/040.jpg,sumo wrestling,train
+83,train/sumo wrestling/041.jpg,sumo wrestling,train
+83,train/sumo wrestling/042.jpg,sumo wrestling,train
+83,train/sumo wrestling/043.jpg,sumo wrestling,train
+83,train/sumo wrestling/044.jpg,sumo wrestling,train
+83,train/sumo wrestling/045.jpg,sumo wrestling,train
+83,train/sumo wrestling/046.jpg,sumo wrestling,train
+83,train/sumo wrestling/047.jpg,sumo wrestling,train
+83,train/sumo wrestling/048.jpg,sumo wrestling,train
+83,train/sumo wrestling/049.jpg,sumo wrestling,train
+83,train/sumo wrestling/050.jpg,sumo wrestling,train
+83,train/sumo wrestling/051.jpg,sumo wrestling,train
+83,train/sumo wrestling/052.jpg,sumo wrestling,train
+83,train/sumo wrestling/053.jpg,sumo wrestling,train
+83,train/sumo wrestling/054.jpg,sumo wrestling,train
+83,train/sumo wrestling/055.jpg,sumo wrestling,train
+83,train/sumo wrestling/056.jpg,sumo wrestling,train
+83,train/sumo wrestling/057.jpg,sumo wrestling,train
+83,train/sumo wrestling/058.jpg,sumo wrestling,train
+83,train/sumo wrestling/059.jpg,sumo wrestling,train
+83,train/sumo wrestling/060.jpg,sumo wrestling,train
+83,train/sumo wrestling/061.jpg,sumo wrestling,train
+83,train/sumo wrestling/062.jpg,sumo wrestling,train
+83,train/sumo wrestling/063.jpg,sumo wrestling,train
+83,train/sumo wrestling/064.jpg,sumo wrestling,train
+83,train/sumo wrestling/065.jpg,sumo wrestling,train
+83,train/sumo wrestling/066.jpg,sumo wrestling,train
+83,train/sumo wrestling/067.jpg,sumo wrestling,train
+83,train/sumo wrestling/068.jpg,sumo wrestling,train
+83,train/sumo wrestling/069.jpg,sumo wrestling,train
+83,train/sumo wrestling/070.jpg,sumo wrestling,train
+83,train/sumo wrestling/071.jpg,sumo wrestling,train
+83,train/sumo wrestling/072.jpg,sumo wrestling,train
+83,train/sumo wrestling/073.jpg,sumo wrestling,train
+83,train/sumo wrestling/074.jpg,sumo wrestling,train
+83,train/sumo wrestling/075.jpg,sumo wrestling,train
+83,train/sumo wrestling/076.jpg,sumo wrestling,train
+83,train/sumo wrestling/077.jpg,sumo wrestling,train
+83,train/sumo wrestling/078.jpg,sumo wrestling,train
+83,train/sumo wrestling/079.jpg,sumo wrestling,train
+83,train/sumo wrestling/080.jpg,sumo wrestling,train
+83,train/sumo wrestling/081.jpg,sumo wrestling,train
+83,train/sumo wrestling/082.jpg,sumo wrestling,train
+83,train/sumo wrestling/083.jpg,sumo wrestling,train
+83,train/sumo wrestling/084.jpg,sumo wrestling,train
+83,train/sumo wrestling/085.jpg,sumo wrestling,train
+83,train/sumo wrestling/086.jpg,sumo wrestling,train
+83,train/sumo wrestling/087.jpg,sumo wrestling,train
+83,train/sumo wrestling/088.jpg,sumo wrestling,train
+83,train/sumo wrestling/089.jpg,sumo wrestling,train
+83,train/sumo wrestling/090.jpg,sumo wrestling,train
+83,train/sumo wrestling/091.jpg,sumo wrestling,train
+83,train/sumo wrestling/092.jpg,sumo wrestling,train
+83,train/sumo wrestling/093.jpg,sumo wrestling,train
+83,train/sumo wrestling/094.jpg,sumo wrestling,train
+83,train/sumo wrestling/095.jpg,sumo wrestling,train
+83,train/sumo wrestling/096.jpg,sumo wrestling,train
+83,train/sumo wrestling/097.jpg,sumo wrestling,train
+83,train/sumo wrestling/098.jpg,sumo wrestling,train
+83,train/sumo wrestling/099.jpg,sumo wrestling,train
+83,train/sumo wrestling/100.jpg,sumo wrestling,train
+83,train/sumo wrestling/101.jpg,sumo wrestling,train
+83,train/sumo wrestling/102.jpg,sumo wrestling,train
+83,train/sumo wrestling/103.jpg,sumo wrestling,train
+83,train/sumo wrestling/104.jpg,sumo wrestling,train
+83,train/sumo wrestling/105.jpg,sumo wrestling,train
+83,train/sumo wrestling/106.jpg,sumo wrestling,train
+83,train/sumo wrestling/107.jpg,sumo wrestling,train
+83,train/sumo wrestling/108.jpg,sumo wrestling,train
+83,train/sumo wrestling/109.jpg,sumo wrestling,train
+83,train/sumo wrestling/110.jpg,sumo wrestling,train
+83,train/sumo wrestling/111.jpg,sumo wrestling,train
+83,train/sumo wrestling/112.jpg,sumo wrestling,train
+83,train/sumo wrestling/113.jpg,sumo wrestling,train
+83,train/sumo wrestling/114.jpg,sumo wrestling,train
+83,train/sumo wrestling/115.jpg,sumo wrestling,train
+83,train/sumo wrestling/116.jpg,sumo wrestling,train
+83,train/sumo wrestling/117.jpg,sumo wrestling,train
+83,train/sumo wrestling/118.jpg,sumo wrestling,train
+83,train/sumo wrestling/119.jpg,sumo wrestling,train
+83,train/sumo wrestling/120.jpg,sumo wrestling,train
+83,train/sumo wrestling/121.jpg,sumo wrestling,train
+83,train/sumo wrestling/122.jpg,sumo wrestling,train
+83,train/sumo wrestling/123.jpg,sumo wrestling,train
+83,train/sumo wrestling/124.jpg,sumo wrestling,train
+83,train/sumo wrestling/125.jpg,sumo wrestling,train
+83,train/sumo wrestling/126.jpg,sumo wrestling,train
+83,train/sumo wrestling/127.jpg,sumo wrestling,train
+83,train/sumo wrestling/128.jpg,sumo wrestling,train
+83,train/sumo wrestling/129.jpg,sumo wrestling,train
+83,train/sumo wrestling/130.jpg,sumo wrestling,train
+83,train/sumo wrestling/131.jpg,sumo wrestling,train
+83,train/sumo wrestling/132.jpg,sumo wrestling,train
+83,train/sumo wrestling/133.jpg,sumo wrestling,train
+83,test/sumo wrestling/1.jpg,sumo wrestling,test
+83,test/sumo wrestling/2.jpg,sumo wrestling,test
+83,test/sumo wrestling/3.jpg,sumo wrestling,test
+83,test/sumo wrestling/4.jpg,sumo wrestling,test
+83,test/sumo wrestling/5.jpg,sumo wrestling,test
+83,valid/sumo wrestling/1.jpg,sumo wrestling,valid
+83,valid/sumo wrestling/2.jpg,sumo wrestling,valid
+83,valid/sumo wrestling/3.jpg,sumo wrestling,valid
+83,valid/sumo wrestling/4.jpg,sumo wrestling,valid
+83,valid/sumo wrestling/5.jpg,sumo wrestling,valid
+85,train/swimming/001.jpg,swimming,train
+85,train/swimming/002.jpg,swimming,train
+85,train/swimming/003.jpg,swimming,train
+85,train/swimming/004.jpg,swimming,train
+85,train/swimming/005.jpg,swimming,train
+85,train/swimming/006.jpg,swimming,train
+85,train/swimming/007.jpg,swimming,train
+85,train/swimming/008.jpg,swimming,train
+85,train/swimming/009.jpg,swimming,train
+85,train/swimming/010.jpg,swimming,train
+85,train/swimming/011.jpg,swimming,train
+85,train/swimming/012.jpg,swimming,train
+85,train/swimming/013.jpg,swimming,train
+85,train/swimming/014.jpg,swimming,train
+85,train/swimming/015.jpg,swimming,train
+85,train/swimming/016.jpg,swimming,train
+85,train/swimming/017.jpg,swimming,train
+85,train/swimming/018.jpg,swimming,train
+85,train/swimming/019.jpg,swimming,train
+85,train/swimming/020.jpg,swimming,train
+85,train/swimming/021.jpg,swimming,train
+85,train/swimming/022.jpg,swimming,train
+85,train/swimming/023.jpg,swimming,train
+85,train/swimming/024.jpg,swimming,train
+85,train/swimming/025.jpg,swimming,train
+85,train/swimming/026.jpg,swimming,train
+85,train/swimming/027.jpg,swimming,train
+85,train/swimming/028.jpg,swimming,train
+85,train/swimming/029.jpg,swimming,train
+85,train/swimming/030.jpg,swimming,train
+85,train/swimming/031.jpg,swimming,train
+85,train/swimming/032.jpg,swimming,train
+85,train/swimming/033.jpg,swimming,train
+85,train/swimming/034.jpg,swimming,train
+85,train/swimming/035.jpg,swimming,train
+85,train/swimming/036.jpg,swimming,train
+85,train/swimming/037.jpg,swimming,train
+85,train/swimming/038.jpg,swimming,train
+85,train/swimming/039.jpg,swimming,train
+85,train/swimming/040.jpg,swimming,train
+85,train/swimming/041.jpg,swimming,train
+85,train/swimming/042.jpg,swimming,train
+85,train/swimming/043.jpg,swimming,train
+85,train/swimming/044.jpg,swimming,train
+85,train/swimming/045.jpg,swimming,train
+85,train/swimming/046.jpg,swimming,train
+85,train/swimming/047.jpg,swimming,train
+85,train/swimming/048.jpg,swimming,train
+85,train/swimming/049.jpg,swimming,train
+85,train/swimming/050.jpg,swimming,train
+85,train/swimming/051.jpg,swimming,train
+85,train/swimming/052.jpg,swimming,train
+85,train/swimming/053.jpg,swimming,train
+85,train/swimming/054.jpg,swimming,train
+85,train/swimming/055.jpg,swimming,train
+85,train/swimming/056.jpg,swimming,train
+85,train/swimming/057.jpg,swimming,train
+85,train/swimming/058.jpg,swimming,train
+85,train/swimming/059.jpg,swimming,train
+85,train/swimming/060.jpg,swimming,train
+85,train/swimming/061.jpg,swimming,train
+85,train/swimming/062.jpg,swimming,train
+85,train/swimming/063.jpg,swimming,train
+85,train/swimming/064.jpg,swimming,train
+85,train/swimming/065.jpg,swimming,train
+85,train/swimming/066.jpg,swimming,train
+85,train/swimming/067.jpg,swimming,train
+85,train/swimming/068.jpg,swimming,train
+85,train/swimming/069.jpg,swimming,train
+85,train/swimming/070.jpg,swimming,train
+85,train/swimming/071.jpg,swimming,train
+85,train/swimming/072.jpg,swimming,train
+85,train/swimming/073.jpg,swimming,train
+85,train/swimming/074.jpg,swimming,train
+85,train/swimming/075.jpg,swimming,train
+85,train/swimming/076.jpg,swimming,train
+85,train/swimming/077.jpg,swimming,train
+85,train/swimming/078.jpg,swimming,train
+85,train/swimming/079.jpg,swimming,train
+85,train/swimming/080.jpg,swimming,train
+85,train/swimming/081.jpg,swimming,train
+85,train/swimming/082.jpg,swimming,train
+85,train/swimming/083.jpg,swimming,train
+85,train/swimming/084.jpg,swimming,train
+85,train/swimming/085.jpg,swimming,train
+85,train/swimming/086.jpg,swimming,train
+85,train/swimming/087.jpg,swimming,train
+85,train/swimming/088.jpg,swimming,train
+85,train/swimming/089.jpg,swimming,train
+85,train/swimming/090.jpg,swimming,train
+85,train/swimming/091.jpg,swimming,train
+85,train/swimming/092.jpg,swimming,train
+85,train/swimming/093.jpg,swimming,train
+85,train/swimming/094.jpg,swimming,train
+85,train/swimming/095.jpg,swimming,train
+85,train/swimming/096.jpg,swimming,train
+85,train/swimming/097.jpg,swimming,train
+85,train/swimming/098.jpg,swimming,train
+85,train/swimming/099.jpg,swimming,train
+85,train/swimming/100.jpg,swimming,train
+85,train/swimming/101.jpg,swimming,train
+85,train/swimming/102.jpg,swimming,train
+85,train/swimming/103.jpg,swimming,train
+85,train/swimming/104.jpg,swimming,train
+85,train/swimming/105.jpg,swimming,train
+85,train/swimming/106.jpg,swimming,train
+85,train/swimming/107.jpg,swimming,train
+85,train/swimming/108.jpg,swimming,train
+85,train/swimming/109.jpg,swimming,train
+85,train/swimming/110.jpg,swimming,train
+85,train/swimming/111.jpg,swimming,train
+85,train/swimming/112.jpg,swimming,train
+85,train/swimming/113.jpg,swimming,train
+85,train/swimming/114.jpg,swimming,train
+85,train/swimming/115.jpg,swimming,train
+85,train/swimming/116.jpg,swimming,train
+85,train/swimming/117.jpg,swimming,train
+85,train/swimming/118.jpg,swimming,train
+85,train/swimming/119.jpg,swimming,train
+85,train/swimming/120.jpg,swimming,train
+85,train/swimming/121.jpg,swimming,train
+85,train/swimming/122.jpg,swimming,train
+85,train/swimming/123.jpg,swimming,train
+85,train/swimming/124.jpg,swimming,train
+85,train/swimming/125.jpg,swimming,train
+85,train/swimming/126.jpg,swimming,train
+85,train/swimming/127.jpg,swimming,train
+85,train/swimming/128.jpg,swimming,train
+85,train/swimming/129.jpg,swimming,train
+85,train/swimming/130.jpg,swimming,train
+85,train/swimming/131.jpg,swimming,train
+85,train/swimming/132.jpg,swimming,train
+85,train/swimming/133.jpg,swimming,train
+85,train/swimming/134.jpg,swimming,train
+85,train/swimming/135.jpg,swimming,train
+85,train/swimming/136.jpg,swimming,train
+85,train/swimming/137.jpg,swimming,train
+85,train/swimming/138.jpg,swimming,train
+85,train/swimming/139.jpg,swimming,train
+85,train/swimming/140.jpg,swimming,train
+85,train/swimming/141.jpg,swimming,train
+85,train/swimming/142.jpg,swimming,train
+85,train/swimming/143.jpg,swimming,train
+85,train/swimming/144.jpg,swimming,train
+85,train/swimming/145.jpg,swimming,train
+85,train/swimming/146.jpg,swimming,train
+85,train/swimming/147.jpg,swimming,train
+85,train/swimming/148.jpg,swimming,train
+85,train/swimming/149.jpg,swimming,train
+85,train/swimming/150.jpg,swimming,train
+85,train/swimming/151.jpg,swimming,train
+85,train/swimming/152.jpg,swimming,train
+85,train/swimming/153.jpg,swimming,train
+85,train/swimming/154.jpg,swimming,train
+85,train/swimming/155.jpg,swimming,train
+85,train/swimming/156.jpg,swimming,train
+85,train/swimming/157.jpg,swimming,train
+85,test/swimming/1.jpg,swimming,test
+85,test/swimming/2.jpg,swimming,test
+85,test/swimming/3.jpg,swimming,test
+85,test/swimming/4.jpg,swimming,test
+85,test/swimming/5.jpg,swimming,test
+85,valid/swimming/1.jpg,swimming,valid
+85,valid/swimming/2.jpg,swimming,valid
+85,valid/swimming/3.jpg,swimming,valid
+85,valid/swimming/4.jpg,swimming,valid
+85,valid/swimming/5.jpg,swimming,valid
+87,train/tennis/001.jpg,tennis,train
+87,train/tennis/002.jpg,tennis,train
+87,train/tennis/003.jpg,tennis,train
+87,train/tennis/004.jpg,tennis,train
+87,train/tennis/005.jpg,tennis,train
+87,train/tennis/006.jpg,tennis,train
+87,train/tennis/007.jpg,tennis,train
+87,train/tennis/008.jpg,tennis,train
+87,train/tennis/009.jpg,tennis,train
+87,train/tennis/010.jpg,tennis,train
+87,train/tennis/011.jpg,tennis,train
+87,train/tennis/012.jpg,tennis,train
+87,train/tennis/013.jpg,tennis,train
+87,train/tennis/014.jpg,tennis,train
+87,train/tennis/015.jpg,tennis,train
+87,train/tennis/016.jpg,tennis,train
+87,train/tennis/017.jpg,tennis,train
+87,train/tennis/018.jpg,tennis,train
+87,train/tennis/019.jpg,tennis,train
+87,train/tennis/020.jpg,tennis,train
+87,train/tennis/021.jpg,tennis,train
+87,train/tennis/022.jpg,tennis,train
+87,train/tennis/023.jpg,tennis,train
+87,train/tennis/024.jpg,tennis,train
+87,train/tennis/025.jpg,tennis,train
+87,train/tennis/026.jpg,tennis,train
+87,train/tennis/027.jpg,tennis,train
+87,train/tennis/028.jpg,tennis,train
+87,train/tennis/029.jpg,tennis,train
+87,train/tennis/030.jpg,tennis,train
+87,train/tennis/031.jpg,tennis,train
+87,train/tennis/032.jpg,tennis,train
+87,train/tennis/033.jpg,tennis,train
+87,train/tennis/034.jpg,tennis,train
+87,train/tennis/035.jpg,tennis,train
+87,train/tennis/036.jpg,tennis,train
+87,train/tennis/037.jpg,tennis,train
+87,train/tennis/038.jpg,tennis,train
+87,train/tennis/039.jpg,tennis,train
+87,train/tennis/040.jpg,tennis,train
+87,train/tennis/041.jpg,tennis,train
+87,train/tennis/042.jpg,tennis,train
+87,train/tennis/043.jpg,tennis,train
+87,train/tennis/044.jpg,tennis,train
+87,train/tennis/045.jpg,tennis,train
+87,train/tennis/046.jpg,tennis,train
+87,train/tennis/047.jpg,tennis,train
+87,train/tennis/048.jpg,tennis,train
+87,train/tennis/049.jpg,tennis,train
+87,train/tennis/050.jpg,tennis,train
+87,train/tennis/051.jpg,tennis,train
+87,train/tennis/052.jpg,tennis,train
+87,train/tennis/053.jpg,tennis,train
+87,train/tennis/054.jpg,tennis,train
+87,train/tennis/055.jpg,tennis,train
+87,train/tennis/056.jpg,tennis,train
+87,train/tennis/057.jpg,tennis,train
+87,train/tennis/058.jpg,tennis,train
+87,train/tennis/059.jpg,tennis,train
+87,train/tennis/060.jpg,tennis,train
+87,train/tennis/061.jpg,tennis,train
+87,train/tennis/062.jpg,tennis,train
+87,train/tennis/063.jpg,tennis,train
+87,train/tennis/064.jpg,tennis,train
+87,train/tennis/065.jpg,tennis,train
+87,train/tennis/066.jpg,tennis,train
+87,train/tennis/067.jpg,tennis,train
+87,train/tennis/068.jpg,tennis,train
+87,train/tennis/069.jpg,tennis,train
+87,train/tennis/070.jpg,tennis,train
+87,train/tennis/071.jpg,tennis,train
+87,train/tennis/072.jpg,tennis,train
+87,train/tennis/073.jpg,tennis,train
+87,train/tennis/074.jpg,tennis,train
+87,train/tennis/075.jpg,tennis,train
+87,train/tennis/076.jpg,tennis,train
+87,train/tennis/077.jpg,tennis,train
+87,train/tennis/078.jpg,tennis,train
+87,train/tennis/079.jpg,tennis,train
+87,train/tennis/080.jpg,tennis,train
+87,train/tennis/081.jpg,tennis,train
+87,train/tennis/082.jpg,tennis,train
+87,train/tennis/083.jpg,tennis,train
+87,train/tennis/084.jpg,tennis,train
+87,train/tennis/085.jpg,tennis,train
+87,train/tennis/086.jpg,tennis,train
+87,train/tennis/087.jpg,tennis,train
+87,train/tennis/088.jpg,tennis,train
+87,train/tennis/089.jpg,tennis,train
+87,train/tennis/090.jpg,tennis,train
+87,train/tennis/091.jpg,tennis,train
+87,train/tennis/092.jpg,tennis,train
+87,train/tennis/093.jpg,tennis,train
+87,train/tennis/094.jpg,tennis,train
+87,train/tennis/095.jpg,tennis,train
+87,train/tennis/096.jpg,tennis,train
+87,train/tennis/097.jpg,tennis,train
+87,train/tennis/098.jpg,tennis,train
+87,train/tennis/099.jpg,tennis,train
+87,train/tennis/100.jpg,tennis,train
+87,train/tennis/101.jpg,tennis,train
+87,train/tennis/102.jpg,tennis,train
+87,train/tennis/103.jpg,tennis,train
+87,train/tennis/104.jpg,tennis,train
+87,train/tennis/105.jpg,tennis,train
+87,train/tennis/106.jpg,tennis,train
+87,train/tennis/107.jpg,tennis,train
+87,train/tennis/108.jpg,tennis,train
+87,train/tennis/109.jpg,tennis,train
+87,train/tennis/110.jpg,tennis,train
+87,train/tennis/111.jpg,tennis,train
+87,train/tennis/112.jpg,tennis,train
+87,train/tennis/113.jpg,tennis,train
+87,train/tennis/114.jpg,tennis,train
+87,train/tennis/115.jpg,tennis,train
+87,train/tennis/116.jpg,tennis,train
+87,train/tennis/117.jpg,tennis,train
+87,train/tennis/118.jpg,tennis,train
+87,train/tennis/119.jpg,tennis,train
+87,train/tennis/120.jpg,tennis,train
+87,train/tennis/121.jpg,tennis,train
+87,train/tennis/122.jpg,tennis,train
+87,train/tennis/123.jpg,tennis,train
+87,train/tennis/124.jpg,tennis,train
+87,train/tennis/125.jpg,tennis,train
+87,train/tennis/126.jpg,tennis,train
+87,train/tennis/127.jpg,tennis,train
+87,train/tennis/128.jpg,tennis,train
+87,train/tennis/129.jpg,tennis,train
+87,train/tennis/130.jpg,tennis,train
+87,train/tennis/131.jpg,tennis,train
+87,test/tennis/1.jpg,tennis,test
+87,test/tennis/2.jpg,tennis,test
+87,test/tennis/3.jpg,tennis,test
+87,test/tennis/4.jpg,tennis,test
+87,test/tennis/5.jpg,tennis,test
+87,valid/tennis/1.jpg,tennis,valid
+87,valid/tennis/2.jpg,tennis,valid
+87,valid/tennis/3.jpg,tennis,valid
+87,valid/tennis/4.jpg,tennis,valid
+87,valid/tennis/5.jpg,tennis,valid
